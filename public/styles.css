@@ -1,0 +1,64 @@
+h2 {
+  color: pink;
+  font-family: "Courier New";
+  font-size: 40px;
+}
+
+body {
+  background-color: orange;
+  background-image: url("https://ih1.redbubble.net/image.1610752645.4221/st,small,845x845-pad,1000x1000,f8f8f8.jpg");
+  background-size: contain;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Verdana";
+  text-decoration: underline;
+}
+
+a {
+  font-size: 30px;
+}
+
+.jobs {
+  color: green;
+  font-size: 30px;
+  background-color: white;
+  width: 20%;
+}
+
+.jobDescription {
+  color: black;
+  background-color: red;
+  display: inline-block;
+}
+
+.title {
+  background-color: yellow;
+  display: inline-block;
+  font-style: italic;
+}
+
+.jobClasses {
+  background-image: url("https://64.media.tumblr.com/df09dc717b7e0a3772493b3538f5e64f/fa92c10d365e3945-48/s500x750/d609b961b9d26ac96275954702b568bfd0aa31c2.gifv");
+  background-size: cover;
+}
+
+.picked {
+  color: purple;
+  background-color: green;
+  display: inline-block;
+}
+
+.home {
+  background-color: white;
+}
+
+li {
+  background-color: red;
+  width: 7%;
+}
+
+p {
+  background-color: black;
+  width: 12%;
+}
